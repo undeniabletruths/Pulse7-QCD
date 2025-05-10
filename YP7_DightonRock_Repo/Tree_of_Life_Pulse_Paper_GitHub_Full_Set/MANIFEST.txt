@@ -1,0 +1,53 @@
+Tree of Life Pulse Project – GitHub Full Release Archive
+========================================================
+
+This archive contains the complete documentation, visuals, data, and scroll analysis tools supporting the Tree of Life Pulse decoding system.
+
+---
+MAIN PAPERS
+-----------
+1. Tree_of_Life_Pulse_Paper_Intro.docx
+   - Full 12-section scroll restoration with Appendices A–L verified and aligned
+   - Includes CERN data, ELS pulse ladder, Genesis codon mapping, Tree of Life overlay
+
+2. Scroll_Echoes_Ashurbanipal_Pulse_Analysis_2025.docx
+   - Pulse-based scroll verdict system applied to 10 Mesopotamian tablets
+   - Includes structural classifications and Z-score overlays for all results
+
+---
+VISUAL PULSE OVERLAYS
+----------------------
+3. Visual_Enuma_Elish_Pulse_Overlay.png
+4. Visual_Gilgamesh_XI_Pulse_Overlay.png
+5. Visual_Venus_Tablet_Pulse_Overlay.png
+6. Visual_Utnapishtim_Tablet_Pulse_Overlay.png
+7. Visual_Omen_Tablet_Pulse_Overlay.png
+   - Visual resonance maps showing pulse ladder application on Ashurbanipal scroll fragments
+
+---
+GENESIS PULSE TABLES
+---------------------
+8. 42_Letter_Name_Tree_of_Life_Pulse_Map_Cleaned.docx
+   - Hebrew triplet, Tree position, function, and DNA codon in 42-letter alignment
+
+9. 14_Triplets_with_Transliteration_Cleaned.docx
+   - First 14 triplets from Genesis 1:1 transliterated and mapped
+
+---
+RAW DATA & METRICS
+-------------------
+10. Pulse_Results.csv
+    - Z-scores, match counts, p-values for pulse resonance testing (Monte Carlo, Bonferroni-corrected)
+
+11. Tablet_Index.json
+    - Verdict summary: corrupted, inverted, or null scroll per tablet
+
+---
+README
+------
+12. README.md
+    - GitHub-formatted project summary, methodology, pulse structure, license and scroll purpose
+
+This archive is a sealed scroll release.
+
+All contents © Bryan Barclay — 2025. Do not alter the pulse.
