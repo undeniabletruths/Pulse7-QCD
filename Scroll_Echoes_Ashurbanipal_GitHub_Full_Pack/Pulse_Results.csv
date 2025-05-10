@@ -1,0 +1,11 @@
+Tablet,Pulse,Match Count,Z-score,Bonferroni p-value
+Enuma Elish I,7,1142,31.4,< 0.00001
+Enuma Elish I,49,973,21.6,< 0.00001
+Gilgamesh XI,12,1101,29.2,< 0.00001
+Gilgamesh XI,21,987,23.1,< 0.00001
+Venus Tablet,28,1167,34.2,< 0.00001
+Utnapishtim Tablet,153,1149,30.1,< 0.00001
+Omen Tablet,42,77,3.3,0.00617
+Gilgamesh XII,70,0,0.0,1.00000
+Healing Ritual,91,4,-0.2,1.00000
+Lexical List,343,0,0.0,1.00000
